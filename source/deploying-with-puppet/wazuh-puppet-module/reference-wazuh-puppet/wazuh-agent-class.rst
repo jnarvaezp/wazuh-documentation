@@ -138,10 +138,6 @@ $enable_wodle_openscap
 $wodle_openscap_content
   Depending linux distribution assign profile xccdf.
 
-$service_has_status
-
-  `Default true`
-
 $ossec_conf_template
   Path of ossec configuration agent template.
 
