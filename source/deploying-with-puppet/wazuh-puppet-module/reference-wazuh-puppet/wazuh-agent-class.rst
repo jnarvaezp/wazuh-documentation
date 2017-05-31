@@ -123,12 +123,6 @@ $agent_auth_password
 
   `Default undef`
 
-$agent_seed
-
-$max_clients
-
-  `Default 3000`
-
 $ar_repeated_offenders
   A comma separated list of increasing timeouts in minutes for repeat offenders.
 
